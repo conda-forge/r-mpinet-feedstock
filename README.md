@@ -1,11 +1,11 @@
-About r-mpinet
-==============
+About r-mpinet-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mpinet-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=MPINet
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mpinet-feedstock/blob/main/LICENSE.txt)
 
 Summary: (1) Our system provides a network-based strategies for metabolite pathway identification.(2) The MPINet can support the identification of pathways using Hypergeometric test based on metabolite set. (3)MPINet can support pathways from multiple databases.
 
